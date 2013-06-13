@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-NB, JSCover-all contains a forked version of Rhino. See:
-http://github.com/tntim96/rhino/
--->
-
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.tntim96</groupId>
     <artifactId>JSCover-maven-test</artifactId>
     <packaging>jar</packaging>
@@ -43,16 +38,16 @@ http://github.com/tntim96/rhino/
     </issueManagement>
     <dependencies>
         <dependency>
-			<groupId>com.github.tntim96</groupId>
-			<artifactId>JSCover</artifactId>
-			<version>0.3.0</version>
+            <groupId>com.github.tntim96</groupId>
+            <artifactId>JSCover</artifactId>
+            <version>0.3.0</version>
         </dependency>
     </dependencies>
-  <repositories>
-    <repository>
-      <id>sonatype</id>
-      <name>sonatype staging</name>
-      <url>https://oss.sonatype.org/content/repositories/comgithubtntim96-1001/</url>
-    </repository>
-  </repositories>
+    <repositories>
+        <repository>
+            <id>sonatype</id>
+            <name>sonatype staging</name>
+            <url>https://oss.sonatype.org/content/repositories/comgithubtntim96-1001/</url>
+        </repository>
+    </repositories>
 </project>
