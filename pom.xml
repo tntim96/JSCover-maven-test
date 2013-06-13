@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+NB, JSCover-all contains a forked version of Rhino. See:
+http://github.com/tntim96/rhino/
+-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+    <groupId>com.github.tntim96</groupId>
+    <artifactId>JSCover-test</artifactId>
+    <packaging>jar</packaging>
+    <name>JSCover-test</name>
+    <version>0.0.1</version>
+    <description>JSCover Maven tester.</description>
+    <url>http://tntim96.github.com/JSCover-test/</url>
+    <licenses>
+        <license>
+            <name>GNU General Public License, version 2</name>
+            <url>http://www.gnu.org/licenses/gpl-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <scm>
+        <url>http://github.com/tntim96/JSCover-test/</url>
+        <connection>scm:git:git://github.com/tntim96/JSCover-test.git</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>tntim96</id>
+            <name>Tim</name>
+            <email>tntim96@gamil.com</email>
+            <roles>
+                <role>lead</role>
+            </roles>
+            <timezone>+10</timezone>
+        </developer>
+    </developers>
+    <issueManagement>
+        <system>github</system>
+        <url>http://github.com/tntim96/JSCover/issues</url>
+    </issueManagement>
+    <dependencies>
+        <dependency>
+			<groupId>com.github.tntim96</groupId>
+			<artifactId>JSCover</artifactId>
+			<version>0.3.0</version>
+        </dependency>
+    </dependencies>
+  <repositories>
+    <repository>
+      <id>sonatype</id>
+      <name>sonatype staging</name>
+      <url>https://oss.sonatype.org/content/repositories/comgithubtntim96-1001/</url>
+    </repository>
+  </repositories>
+</project>
