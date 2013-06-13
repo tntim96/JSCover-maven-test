@@ -9,11 +9,11 @@ http://github.com/tntim96/rhino/
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.tntim96</groupId>
-    <artifactId>JSCover-test</artifactId>
+    <artifactId>JSCover-maven-test</artifactId>
     <packaging>jar</packaging>
     <name>JSCover-test</name>
     <version>0.0.1</version>
-    <description>JSCover Maven tester.</description>
+    <description>JSCover Maven tester</description>
     <url>http://tntim96.github.com/JSCover-test/</url>
     <licenses>
         <license>
@@ -23,8 +23,8 @@ http://github.com/tntim96/rhino/
         </license>
     </licenses>
     <scm>
-        <url>http://github.com/tntim96/JSCover-test/</url>
-        <connection>scm:git:git://github.com/tntim96/JSCover-test.git</connection>
+        <url>http://github.com/tntim96/JSCover-maven-test/</url>
+        <connection>scm:git:git://github.com/tntim96/JSCover-maven-test.git</connection>
     </scm>
     <developers>
         <developer>
@@ -32,14 +32,14 @@ http://github.com/tntim96/rhino/
             <name>Tim</name>
             <email>tntim96@gamil.com</email>
             <roles>
-                <role>lead</role>
+                <role>project-lead</role>
             </roles>
             <timezone>+10</timezone>
         </developer>
     </developers>
     <issueManagement>
         <system>github</system>
-        <url>http://github.com/tntim96/JSCover/issues</url>
+        <url>http://github.com/tntim96/JSCover-maven-test/issues</url>
     </issueManagement>
     <dependencies>
         <dependency>
