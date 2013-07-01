@@ -1,1 +1,1 @@
- mvn dependency:copy-dependencies -DoutputDirectory=.
+mvn dependency:copy-dependencies -DoutputDirectory=.
