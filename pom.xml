@@ -40,14 +40,14 @@
         <dependency>
             <groupId>com.github.tntim96</groupId>
             <artifactId>JSCover</artifactId>
-            <version>0.3.1</version>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
     <repositories>
         <repository>
             <id>sonatype</id>
             <name>sonatype staging</name>
-            <url>https://oss.sonatype.org/content/repositories/comgithubtntim96-1003/</url>
+            <url>https://oss.sonatype.org/content/repositories/comgithubtntim96-1004/</url>
         </repository>
     </repositories>
 </project>
