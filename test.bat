@@ -1,1 +1,1 @@
-java -cp "JSCover-1.0.10.jar;rhino-1.7R5pre03.jar" jscover.Main -V
+java -cp "JSCover-1.0.11.jar;rhino-1.7R5pre03.jar" jscover.Main -V
