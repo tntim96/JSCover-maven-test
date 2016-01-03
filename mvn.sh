@@ -1,2 +1,2 @@
 mvn dependency:copy-dependencies -DoutputDirectory=.
-java -cp "JSCover-1.0.22.jar:rhino-1.7.7.jar" jscover.Main -V
+java -cp "JSCover-1.0.23.jar:rhino-1.7.7.jar" jscover.Main -V
