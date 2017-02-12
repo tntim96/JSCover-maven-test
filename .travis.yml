@@ -1,3 +1,3 @@
 language: bash
 
-script: mvn.sh
+script: ./mvn.sh
