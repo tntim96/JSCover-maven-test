@@ -1,4 +1,6 @@
 language: bash
+jdk:
+  - oraclejdk8
 before_install:
 - rm ~/.m2/settings.xml
 install: true
