@@ -1,1 +1,3 @@
 *.jar
+report-merged
+jscover.log
