@@ -1,5 +1,5 @@
 rm *.jar
-mvn dependency:copy-dependencies -DoutputDirectory=.
+mvn -U dependency:copy-dependencies -DoutputDirectory=.
 
 java -cp "./*" jscover.Main -V
 rc=$?; if [[ $rc != 0 ]]; then exit $rc; fi
