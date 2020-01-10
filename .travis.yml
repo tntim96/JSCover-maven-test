@@ -1,6 +1,6 @@
 language: language
 jdk:
-  - oraclejdk8
+  - openjdk8
 before_install:
 - rm ~/.m2/settings.xml
 install: true
