@@ -1,7 +1,0 @@
-language: language
-jdk:
-  - openjdk8
-before_install:
-- rm ~/.m2/settings.xml
-install: true
-script: ./mvn.sh

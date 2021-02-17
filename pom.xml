@@ -43,6 +43,7 @@
             <version>2.0.11</version>
         </dependency>
     </dependencies>
+    <!--
     <repositories>
         <repository>
             <id>sonatype</id>
@@ -50,4 +51,5 @@
             <url>https://oss.sonatype.org/content/repositories/comgithubtntim96-1129</url>
         </repository>
     </repositories>
+    -->
 </project>
