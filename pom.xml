@@ -43,13 +43,11 @@
             <version>2.0.22-SNAPSHOT</version>
         </dependency>
     </dependencies>
-    <!--
     <repositories>
         <repository>
             <id>sonatype</id>
             <name>sonatype staging</name>
-            <url>hhttps://central.sonatype.com/repository/maven-snapshots</url>
+            <url>https://central.sonatype.com/repository/maven-snapshots</url>
         </repository>
     </repositories>
-    -->
 </project>
